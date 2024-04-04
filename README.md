@@ -1,7 +1,7 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="300" src="https://github.com/wl-costa/wlcosta/assets/160422244/7f5a5899-4346-4b9b-9a2e-2c79bdd955fe">
 
 <h1>
-    <a><span>Olá, eu sou o <a href="linkedin.com/in/wendell-costa-b824ab2b5/">Wendell Costa 👋</span></a>
+    <a><span>Olá, eu sou o <a href="https://www.linkedin.com/in/wendell-costa-b824ab2b5/">Wendell Costa 👋</span></a>
 </h1>
 
 <details align="left"> 
