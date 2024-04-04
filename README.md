@@ -4,24 +4,26 @@
     <a><span>Olá, eu sou o <a href="linkedin.com/in/wendell-costa-b824ab2b5/">Wendell Costa 👋</span></a>
 </h1>
 
-<details align="left">
-  <summary>Bio detalhada</summary> 
- 
-<p>Graduando em análise e desenvolvimento de sistemas pela Uninter e apaixonado pelo universo da tecnologia. Meu primeiro "Hello World" foi lá em 2021 estudando javascript pelo console do Chrome e desde então traço uma jornada rumo ao meu primeiro emprego como dev. Com a maior parte dos estudos até então focadas em tecnologias full-stack, procuro sempre desenvolver minhas habilidades com bastante estudo, dedicação e é claro, muita, mas muita prática.</p>
-<p>Todo e qualquer repositório presente no meu perfil, até mesmo esse readme, aceitará code reviews, meu principal intuito é melhorar, então fique sinta-se à vontade para dar aquela ajudinha! :)</p>
-<p>No mais, eu gostaria de deixar claro que sou apaixonado por games de ação/rpg e filmes/livros de ficção científica, então se quiser trocar uma ideia sobre buracos negros, paradoxos ou até mesmo marcar uma partida de fortnite, me adiciona no instagram: (<a href="https://www.linkedin.com/in/wendell-costa-b824ab2b5/">@dni.costa</a>) - Só não prometo ganhar a partida XD.</p>
-
+<details align="left"> 
+  <summary>Bio resumida</summary>
+    <br>
+    <div align="justify">
+        <p>💻 Eu estou estudando desenvolvimento full-stack.</p>
+        <p>🎓 Eu curso Análise e Desenvolvimento de Sistemas | Uninter.</p>
+        <p>👩‍💻 Atualmente eu procuro um estágio e primeiro emprego como desenvolvedor.</p>
+        <p>🔎 Também sou curioso sobre o espaço e paradoxos confusos.</p>
+        <p>✒️ No meu tempo livre eu gosto de jogar jogos de ação/rpg e ler livros de ficção científica.</p>
+        <p>🎮 Jogando: Metal Gear Solid 5 - The Phantom Pain.</p>
+        <p>📚 Lendo: 1984 - George Orwell.</p>
+    </div>
 </details>
 
-<details align="left"> 
-  <summary>Bio resumida</summary> 
-    <p>💻 Eu estou estudando desenvolvimento full-stack.</p>
-    <p>🎓 Eu curso Análise e Desenvolvimento de Sistemas | Uninter.</p>
-    <p>👩‍💻 Atualmente eu procuro um estágio e primeiro emprego como desenvolvedor.</p>
-    <p>🔎 Também sou curioso sobre o espaço e paradoxos confusos.</p>
-    <p>✒️ No meu tempo livre eu gosto de jogar jogos de ação/rpg e ler livros de ficção científica.</p>
-    <p>🎮 Jogando: Metal Gear Solid 5 - The Phantom Pain.</p>
-    <p>📚 Lendo: 1984 - George Orwell.</p>
+<details align="left">
+  <summary>☰ Bio detalhada</summary> 
+    <br>
+    <p align="justify">Graduando em análise e desenvolvimento de sistemas pela Uninter e apaixonado pelo universo da tecnologia. Meu primeiro "Hello World" foi lá em 2021 estudando javascript pelo console do Chrome e desde então traço uma jornada rumo ao meu primeiro emprego como dev. Com a maior parte dos estudos até então focadas em tecnologias full-stack, procuro sempre desenvolver minhas habilidades com bastante estudo, dedicação e é claro, muita, mas muita prática.</p>
+    <p align="justify">Todo e qualquer repositório presente no meu perfil, até mesmo esse readme, aceitará code reviews, meu principal intuito é melhorar, então fique sinta-se à vontade para dar aquela ajudinha! :)</p>
+    <p align="justify">No mais, eu gostaria de deixar claro que sou apaixonado por games de ação/rpg e filmes/livros de ficção científica, então se quiser trocar uma ideia sobre buracos negros, paradoxos ou até mesmo marcar uma partida de fortnite, me adiciona no instagram: (<a href="https://www.linkedin.com/in/wendell-costa-b824ab2b5/">@dni.costa</a>) - Só não prometo ganhar a partida XD.</p>
 
 </details>
 
