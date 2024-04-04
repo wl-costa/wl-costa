@@ -51,26 +51,26 @@
 [![X](https://img.shields.io/badge/-X(Twitter)-000?style=for-the-badge&logo=x&logoColor=whitecolor:FFF)](https://www.instagram.com/dni.costa?igsh=Njg0N2JtZ2g1Znl6)
 
 <h3 align="left">Cursos realizados 🤓</h3>
-<div>
-    <a href="https://github.com/wl-costa"><img height="140em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wl-costa&layout=compact&langs_count=7&theme=transparent"/></a>
-    <a href="https://github.com/wl-costa"><img height="140em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wl-costa&show_icons=true&theme=transparent&hide=stars,issues"/>
-</div>
+
+[![Trybe](https://img.shields.io/badge/fundamentos_do_desenvolvimento_web_-_trybe-1eb720?style=for-the-badge&logo=fundamentos_do_desenvolvimento_web&logoColor=white)](https://www.credential.net/49f32a2e-e33f-4472-b163-2569de8d088f)
 <br>
+[![Google](https://img.shields.io/badge/suporte_em_ti_-_google-4285F4?style=for-the-badge&logo=fundamentos_do_desenvolvimento_web&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/Z555645HKNGT)
+
 
 <h3 align="left">GitHub Stats ⚡</h3>
 <div>
     <a href="https://github.com/wl-costa"><img height="140em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wl-costa&layout=compact&langs_count=7&theme=transparent"/></a>
-    <a href="https://github.com/wl-costa"><img height="140em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wl-costa&show_icons=true&theme=transparent&hide=stars,issues"/>
+    <a href="https://github.com/wl-costa"><img height="140em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wl-costa&show_icons=true&theme=transparent&hide=issues"/>
 </div>
 <br>
 
 <details align="left">
-  <summary>Detalhes ⚙️</summary> 
- 
-  - Badges by <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a><br>
+  <summary>Detalhes ⚙️</summary>
+    
+  - Badges by <a href="https://shields.io/">shields.io</a><br>
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Web illustrations by <a href="https://storyset.com/web">Storyset</a> (edited by author)
  
-  <div align="center">Feito com o 💙 por <a href="https://github.com/wl-costa">Wl-Costa</a>.</div>
+  <div align="center">Made with 💙 by <a href="https://github.com/wl-costa">wl-Costa</a>.</div>
 
 </details>
