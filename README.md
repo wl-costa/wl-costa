@@ -8,7 +8,7 @@
   <summary>Bio resumida</summary>
     <br>
     <div align="justify">
-        <p>💻 Eu estou estudando desenvolvimento full-stack.</p>
+        <p>💻 Eu estou estudando desenvolvimento Fullstack.</p>
         <p>🎓 Eu curso Análise e Desenvolvimento de Sistemas | Uninter.</p>
         <p>👩‍💻 Atualmente eu procuro um estágio e primeiro emprego como desenvolvedor.</p>
         <p>🔎 Também sou curioso sobre o espaço e paradoxos confusos.</p>
