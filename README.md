@@ -44,11 +44,17 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+<h3 align="left">Meus SO's 💾</h3>
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+
 <h3 align="left">Que tal a gente se conectar? 🔗</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color:FFF)](https://www.linkedin.com/in/wendell-costa-b824ab2b5/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=C13584&color:FFF)](https://www.instagram.com/dni.costa?igsh=Njg0N2JtZ2g1Znl6)
-[![X](https://img.shields.io/badge/-X(Twitter)-000?style=for-the-badge&logo=x&logoColor=whitecolor:FFF)](https://www.instagram.com/dni.costa?igsh=Njg0N2JtZ2g1Znl6)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-caccce?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color:000)](https://www.linkedin.com/in/wendell-costa-b824ab2b5/)
+[![Instagram](https://img.shields.io/badge/-Instagram-caccce?style=for-the-badge&logo=instagram&logoColor=C13584&color:FFF)](https://www.instagram.com/dni.costa?igsh=Njg0N2JtZ2g1Znl6)
+[![X](https://img.shields.io/badge/-X_(Twitter)-000?style=for-the-badge&logo=x&logoColor=whitecolor:FFF)](https://www.instagram.com/dni.costa?igsh=Njg0N2JtZ2g1Znl6)
 
 <h3 align="left">Cursos realizados 🤓</h3>
 
