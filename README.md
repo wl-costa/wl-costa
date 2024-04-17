@@ -63,6 +63,7 @@
 [![Trybe](https://img.shields.io/badge/fundamentos_do_desenvolvimento_web_-_trybe-1eb720?style=for-the-badge&logo=fundamentos_do_desenvolvimento_web&logoColor=white)](https://www.credential.net/49f32a2e-e33f-4472-b163-2569de8d088f)
 <br>
 [![Google](https://img.shields.io/badge/suporte_em_ti_-_google-4285F4?style=for-the-badge&logo=fundamentos_do_desenvolvimento_web&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/Z555645HKNGT)
+[![Dio](https://img.shields.io/badge/git_e_github_-_dio-4285F4?style=for-the-badge&logo=fundamentos_do_desenvolvimento_web&logoColor=orange)](https://www.coursera.org/account/accomplishments/specialization/Z555645HKNGT)
 
 
 <h3 align="left">GitHub Stats ⚡</h3>
