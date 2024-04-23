@@ -11,8 +11,8 @@
         <p>💻 Eu estou estudando desenvolvimento Fullstack.</p>
         <p>🎓 Eu curso Análise e Desenvolvimento de Sistemas | Uninter.</p>
         <p>👩‍💻 Atualmente eu procuro um estágio e primeiro emprego como desenvolvedor.</p>
-        <p>🔎 Também sou curioso sobre o espaço e paradoxos confusos.</p>
-        <p>✒️ No meu tempo livre eu gosto de jogar jogos de ação/rpg e ler livros de ficção científica.</p>
+        <p>🔎 Também sou curioso sobre o espaço e paradoxos.</p>
+        <p>✒️ No meu tempo livre eu gosto de jogar jogos de Ação/RPG e ler livros de ficção científica.</p>
         <p>🎮 Jogando: Metal Gear Solid 5 - The Phantom Pain.</p>
         <p>📚 Lendo: 1984 - George Orwell.</p>
     </div>
