@@ -80,6 +80,6 @@
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Web illustrations by <a href="https://storyset.com/web">Storyset</a> (edited by author)
  
-  <div align="center">Made with 💙 by <a href="https://github.com/wl-costa">wl-Costa</a>.</div>
+  <div align="center">Made with 💙 by <a href="https://github.com/wl-costa">wl-costa</a>.</div>
 
 </details>
