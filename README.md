@@ -76,10 +76,10 @@
 <details align="left">
   <summary>Mais detalhes</summary>
     
-  - Badges by <a href="https://shields.io/">shields.io</a><br>
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  - Web illustrations by <a href="https://storyset.com/web">Storyset</a> (edited by author)
+  - Badges de <a href="https://shields.io/">shields.io</a><br>
+  - GitHub Stats de <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - Ilustração de <a href="https://storyset.com/web">Storyset</a> (editado pelo autor)
  
-  <div align="center">Made with 💙 by <a href="https://github.com/wl-costa">wl-costa</a>.</div>
+  <div align="center">Feito por <a href="https://www.linkedin.com/in/wendell-costa-b824ab2b5/" target="_blank">wl-costa :)</a>.</div>
 
 </details>
