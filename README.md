@@ -23,7 +23,6 @@
     <br>
     <p align="justify">Graduando em análise e desenvolvimento de sistemas pela Uninter e apaixonado pelo universo da tecnologia. Meu primeiro "Hello World" foi lá em 2021 estudando javascript pelo console do Chrome e desde então traço uma jornada rumo ao meu primeiro emprego como dev. Com a maior parte dos estudos até então focadas em tecnologias full-stack, procuro sempre desenvolver minhas habilidades com bastante estudo, dedicação e é claro, muita, mas muita prática.</p>
     <p align="justify">Todo e qualquer repositório presente no meu perfil, até mesmo esse readme, aceitará code reviews, meu principal intuito é melhorar, então fique sinta-se à vontade para dar aquela ajudinha! :)</p>
-    <p align="justify">No mais, eu gostaria de deixar claro que sou apaixonado por games de ação/rpg e filmes/livros de ficção científica, então se quiser trocar uma ideia sobre buracos negros, paradoxos ou até mesmo marcar uma partida de fortnite, me adiciona no instagram: <a href="https://www.linkedin.com/in/wendell-costa-b824ab2b5/">@dni.costa</a> - Só não prometo ganhar a partida XD.</p>
 
 </details>
 
