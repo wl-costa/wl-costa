@@ -10,11 +10,11 @@
     <div align="justify">
         <p>💻 Eu estou estudando desenvolvimento Fullstack.</p>
         <p>🎓 Eu curso Análise e Desenvolvimento de Sistemas | Uninter.</p>
-        <p>👩‍💻 Atualmente eu procuro um estágio e primeiro emprego como desenvolvedor.</p>
-        <p>🔎 Também sou curioso sobre o espaço e paradoxos.</p>
+        <p>👩‍💻 Atualmente eu procuro meu primeiro emprego como desenvolvedor.</p>
+        <p>🔎 Também sou curioso sobre o universo.</p>
         <p>✒️ No meu tempo livre eu gosto de jogar jogos de Ação/RPG e ler livros de ficção científica.</p>
-        <p>🎮 Jogando: Metal Gear Solid 5 - The Phantom Pain.</p>
-        <p>📚 Lendo: 1984 - George Orwell.</p>
+        <p>🎮 Jogando: A Plague Tale: Requiem.</p>
+        <p>📚 Lendo: Monalisa Overdrive - William Gibson.</p>
     </div>
 </details>
 
@@ -54,8 +54,6 @@
 <h3 align="left">Que tal a gente se conectar? 🔗</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-caccce?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color:000)](https://www.linkedin.com/in/wendell-costa-b824ab2b5/)
-[![Instagram](https://img.shields.io/badge/-Instagram-caccce?style=for-the-badge&logo=instagram&logoColor=C13584&color:FFF)](https://www.instagram.com/dni.costa?igsh=Njg0N2JtZ2g1Znl6)
-[![X](https://img.shields.io/badge/-X_(Twitter)-000?style=for-the-badge&logo=x&logoColor=whitecolor:FFF)](https://www.instagram.com/dni.costa?igsh=Njg0N2JtZ2g1Znl6)
 
 <h3 align="left">Cursos realizados 🤓</h3>
 
